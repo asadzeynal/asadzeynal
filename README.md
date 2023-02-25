@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A passionate Backend Developer from Azerbaijan #Golang</h3>
 
-- 🔭 I’m currently working on **TGHRB**
+- 🔭 I’m currently working on **TGRHB**
 
 - 🌱 I’m currently learning **Golang**
 
